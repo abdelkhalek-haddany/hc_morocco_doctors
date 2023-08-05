@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "369602602226",
+    "project_id": "hc-morocco-doctors",
+    "storage_bucket": "hc-morocco-doctors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369602602226:android:fd037a4edcae7c07911c6b",
+        "android_client_info": {
+          "package_name": "com.example.hc_morocco_doctors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369602602226-bp1lufm4nq275kc4acf4rq3t1dr299hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hc_morocco_doctors",
+            "certificate_hash": "319ca5ae344da2d29ca46bce2fbb3a009f0777fa"
+          }
+        },
+        {
+          "client_id": "369602602226-dc2gp5bn75m3pfhsrq414mnfo0tl1pu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3UDLNK9ERBZBkJjt5zXH9a1RJtr2IFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369602602226-dc2gp5bn75m3pfhsrq414mnfo0tl1pu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369602602226-dcj2t28c4jfincm3cnpvla7vanr5568b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hcMoroccoDoctors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
